@@ -1,0 +1,45 @@
+Aa r 200
+Aa w 20
+KU w 8192
+KU w 8200
+Aa r 10
+Aa r 10
+KU d
+KU r 10000
+KU w 8200
+KU r 1000
+Ab d
+Aa d
+Aa d
+Aa r 10
+Aa r 10
+Aa w 30
+Aa r 50
+Aa r 20
+Bf w 110
+BF w 10000000000000
+KU d
+KU r 3
+aa w 20
+bb w 30
+cc w 40
+dd w 50
+ee w 60
+ff w 70
+gg w 80
+hh w 90
+ii w 100
+jj w 110
+kk w 120
+ll w 130
+mm w 140
+nn w 40003
+nn r 80
+oo w 39485
+pp w 11004
+qq w 40222
+rr w 40102
+ss w 30009
+tt w 30005
+uu w 30005
+vv w 30051
