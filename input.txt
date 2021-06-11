@@ -7,7 +7,7 @@ Aa r 10
 KU d
 KU r 10000
 KU w 8200
-KU r 1000
+KU r 8100
 Ab d
 Aa d
 Aa d
@@ -17,7 +17,7 @@ Aa w 30
 Aa r 50
 Aa r 20
 Bf w 110
-BF w 10000000000000
+BF w 1000000000
 KU d
 KU r 3
 aa w 20
@@ -34,7 +34,7 @@ kk w 120
 ll w 130
 mm w 140
 nn w 40003
-nn r 80
+nn r 70
 oo w 39485
 pp w 11004
 qq w 40222
